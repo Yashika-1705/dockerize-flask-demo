@@ -13,12 +13,12 @@ Built by following [this tutorial](https://www.geeksforgeeks.org/dockerize-your-
 
 ## 📁 Project Structure
 
-docker-flask-demo/
-├── app.py # Main Flask application
-├── requirements.txt # Python dependencies
-├── Dockerfile # Dockerfile to build the container
-├── .gitignore # Files to exclude from Git
-└── README.md # This file
+docker-flask-demo/  
+├── app.py # Main Flask application  
+├── requirements.txt # Python dependencies  
+├── Dockerfile # Dockerfile to build the container  
+├── .gitignore # Files to exclude from Git  
+└── README.md # This file  
 ---
 
 ## 🚀 How to Run the App
