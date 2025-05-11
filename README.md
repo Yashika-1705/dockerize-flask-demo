@@ -29,8 +29,11 @@ Make sure Docker Desktop is installed and running, then run:
 
 ```bash
 docker build -t flask_docker_app .
+```bash
 2. ▶️ Run the Container
+```bash
 docker run -p 5000:5000 flask_docker_app
+```bash
 3. 🌐 Open the App
 Visit http://localhost:5000 in your browser.
 You should see:
@@ -39,9 +42,7 @@ You should see:
 
 🛠️ Tech Used
 Python 3.11
-
 Flask
-
 Docker
 
 🙋‍♀️ Author Note
