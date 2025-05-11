@@ -44,7 +44,3 @@ You should see:
 Python 3.11
 Flask
 Docker
-
-🙋‍♀️ Author Note
-This project is part of my learning journey to understand Docker, containerization, and deployment basics.
-More advanced projects with Docker Compose and databases coming soon.
