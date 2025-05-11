@@ -1,11 +1,11 @@
 #Using official Python lightweight image
-FROM python:3.9-slim
+FROM python:3.11-slim
 
 #setting the working directory
 WORKDIR /app
 
 #copying the project files into the container
-COPY ./app
+COPY . .
 
 #installing the dependencies
 RUN pip install -r requirements.txt
