@@ -30,9 +30,6 @@ Make sure Docker Desktop is installed and running, then run:
 ```bash
 docker build -t flask_docker_app .
 2. ▶️ Run the Container
-bash
-Copy
-Edit
 docker run -p 5000:5000 flask_docker_app
 3. 🌐 Open the App
 Visit http://localhost:5000 in your browser.
